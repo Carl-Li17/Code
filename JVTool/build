@@ -1,0 +1,3 @@
+rm -f ./JVTool
+g++ JVPack.cpp -o JVTool -L./third_party/lib -lpng -lz
+
